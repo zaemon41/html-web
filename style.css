@@ -1,0 +1,16 @@
+body {
+	background-color: cadetblue;
+	color: white;
+
+}
+
+.jumbotron {
+	background-image: url(https://assets.investfeed.com/upload/111ff566-8dda-11e6-a411-de3405eef3da/1120379c-8dda-11e6-85d0-4bc3dce41128.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.img-heading {
+	margin-top: 100px;
+}
+		
